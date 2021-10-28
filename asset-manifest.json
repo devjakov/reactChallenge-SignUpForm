@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactChallenge-SignUpForm/static/css/main.e2164feb.chunk.css",
+    "main.js": "/reactChallenge-SignUpForm/static/js/main.fb136488.chunk.js",
+    "main.js.map": "/reactChallenge-SignUpForm/static/js/main.fb136488.chunk.js.map",
+    "runtime-main.js": "/reactChallenge-SignUpForm/static/js/runtime-main.647b44b7.js",
+    "runtime-main.js.map": "/reactChallenge-SignUpForm/static/js/runtime-main.647b44b7.js.map",
+    "static/js/2.887ab790.chunk.js": "/reactChallenge-SignUpForm/static/js/2.887ab790.chunk.js",
+    "static/js/2.887ab790.chunk.js.map": "/reactChallenge-SignUpForm/static/js/2.887ab790.chunk.js.map",
+    "index.html": "/reactChallenge-SignUpForm/index.html",
+    "static/css/main.e2164feb.chunk.css.map": "/reactChallenge-SignUpForm/static/css/main.e2164feb.chunk.css.map",
+    "static/js/2.887ab790.chunk.js.LICENSE.txt": "/reactChallenge-SignUpForm/static/js/2.887ab790.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647b44b7.js",
+    "static/js/2.887ab790.chunk.js",
+    "static/css/main.e2164feb.chunk.css",
+    "static/js/main.fb136488.chunk.js"
+  ]
+}
